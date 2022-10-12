@@ -1,1 +1,0 @@
-Dit is tekst 1 zonder wijziging
