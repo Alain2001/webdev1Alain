@@ -1,0 +1,28 @@
+.checklist {
+    padding-left: 1.2rem;
+
+}
+
+.checklist li {
+    list-style-type: none;
+}
+
+.checklist li.checked:before {
+    display:inline-block;
+    height:32px;
+    width:32px;
+    margin-right: 5px;
+    content: "";
+    background:url(../images/checked.png) no-repeat 0 0;
+    background-size: 32px 32px;
+}
+
+.checklist li.unchecked:before {
+    display:inline-block;
+    height:32px;
+    width:32px;
+    margin-right: 5px;
+    content: "";
+    background:url(../images/unchecked.png) no-repeat 0 0;
+    background-size: 32px 32px;
+}
