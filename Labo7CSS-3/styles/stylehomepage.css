@@ -1,0 +1,38 @@
+body {
+    width: 1200px;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-family: sans-serif,Helvetica;
+    font-size: 45px;
+    padding-top: 50px;
+    background-image: url("/webdev1alain/Labo7CSS-3/images/rsz_armenia.jpg");
+    height: 150px;
+    margin-top: -20px;
+}
+
+.hobbie1 {
+    background-color: darkslategrey;
+    border-radius: 30px;
+    margin-bottom: 50px;
+
+}
+
+.hobbie2 {
+    background-color: #8D99AE;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.hobbie3 {
+    background-color: lightgrey;
+    border-radius: 30px;
+}
+
+#titlehobbies {
+    text-align: center;
+}
+
