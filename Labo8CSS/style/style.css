@@ -1,0 +1,86 @@
+body {
+    font: 1.2em Verdana, Helvetica, Arial,sans-serif;
+}
+
+.hoofdfoto {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+ h1 {
+     color: #007e7e;
+    font-size: 150%;
+}
+
+ h2 {
+     color: #007e7e;
+    font-size: 130%;
+}
+
+
+ #WeeklySpecials > h1{
+     color: black;
+ }
+
+ #WeeklySpecials > h2 {
+     color: red;
+ }
+
+#WeeklySpecials {
+    float: right;
+    text-align: center;
+    width: 30%;
+    box-sizing: border-box;
+    line-height: 1;
+    padding: 2%;
+    border: 1px solid #007e7e;
+    background: url("/images/cocktail.gif") repeat-x ;
+
+}
+
+#hoofdfoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+#guarantee {
+    line-height: 1.9em;
+    padding: 25px 25px 25px 80px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 1px dashed white;
+    margin: 30px;
+    font-style: italic;
+    background-image: url(/images/background.gif);
+}
+
+#content {
+    width: 70%;
+    float: left;
+}
+
+.cursief {
+    font-style: italic;
+}
+
+.vet {
+    font-weight: bold;
+}
+
+footer {
+    font-size: 50%;
+    text-align: center;
+    clear: both;
+}
+
+
+
