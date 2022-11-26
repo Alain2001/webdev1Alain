@@ -1,0 +1,18 @@
+Ga na wat het effect is van het veranderen van de display property voor .area naar
+achtereenvolgens:
+• block
+• inline
+• inline-block
+
+- Wanneer we kiezen voor block worden de blokjes onder elkaar weergegeven. Er wordt telkens voor een nieuwe lijn gekozen.
+
+- Wanneer we kiezen voor inline worden de blokjes klein naast elkaar weergegeven zo veel als de content toelaat.
+
+- Wanneer we kiezen voor inline-block worden de blokjes in ware grote naast elkaar getoond, er wordt een nieuwe lijn ingevoegd wanneer geen plaats meer is.
+
+
+Voor welke waarden worden de opgegeven width en height genegeerd?
+Voor de waarden: Block en inline-block
+
+Voor welke waarden worden de elementen als woorden op een pagina gezet?
+Voor inline

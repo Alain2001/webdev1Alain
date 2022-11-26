@@ -1,0 +1,6 @@
+Stel display:inline-block voor de elementen met class area, en bekijk opnieuw ‘voorbeeld1.html’.
+Vanwaar komen de lege ruimtes tussen blokken die naast elkaar staan?
+Aangezien elk element een inline block is wordt dit op deze manier gegenereerd.
+
+Resize je browservenster
+horizontaal en kijk hoe de blokken netjes over de regels verdeeld worden.
