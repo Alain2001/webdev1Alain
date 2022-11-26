@@ -1,0 +1,11 @@
+.blok {
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+}
+
+div {
+    float: left;
+    width: 50%;
+}

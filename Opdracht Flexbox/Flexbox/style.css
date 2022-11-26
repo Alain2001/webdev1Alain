@@ -33,12 +33,10 @@ body {
  /* tip: gebruik flex-direction"  */
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
-.profile-picture-wrapper {
-  display: flex;
-  justify-content: center;
-}
+
 
 .card .profile-picture-wrapper {
   order: -1;
@@ -68,15 +66,15 @@ body {
 
 .card .stats {
   font-size: .75rem;
+  inline-size: 100%;
   padding: 2em;
 /* zorg dat de statistische gegevens horizontaal komen */
+  flex-direction: row;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
-.stats > .followers , .likes  {
-  margin-right: 60px;
-}
+
 
 
 .stats {
