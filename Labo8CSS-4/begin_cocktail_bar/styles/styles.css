@@ -1,5 +1,7 @@
 body {
     width: 95%;
+    margin-left: auto;
+    margin-right: auto;
     font-family: Verdana, Helvetica, sans-serif;
 }
 
@@ -32,39 +34,27 @@ footer {
 }
 
 .cocktailfoto {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .blokorigin {
     width: 70%;
-}
-
-.blokorigin article {
-    padding-right: 25px;
-}
-
-.blokweekly {
-    width: 30%;
-    float: right;
-    text-align: center;
-    border: 1px solid cornflowerblue;
-    margin-bottom: 15px;
-
-}
-
-.blokweekly p {
-    margin: 15px 15px;
-
+    box-sizing: border-box;
+    float: left;
+    padding-right: 2%;
 }
 
 .weekly {
+    width: 30%;
+    box-sizing: border-box;
+    float: right;
+    text-align: center;
+    border: 1px solid cornflowerblue;
+    padding: 10px;
     background-image: url("/webdev1alain/Labo8CSS-4/begin_cocktail_bar/images/cocktail.gif") ;
     background-repeat: repeat-x;
-}
-
-.blokvolledig {
-    margin-left: 15px;
-    margin-right: -35px;
 }
 
 #guarantee {
@@ -73,8 +63,8 @@ footer {
     color: #444444;
     background-color: #a7cece;
     border: 4px dotted white;
-    background-image: url("/webdev1alain/Labo8CSS-4/begin_cocktail_bar/images/background.gif");
-    background-repeat: repeat-y;
+    background: url("/webdev1alain/Labo8CSS-4/begin_cocktail_bar/images/background.gif") no-repeat top left;
+    background-color: #a7cece;
 
 }
 
