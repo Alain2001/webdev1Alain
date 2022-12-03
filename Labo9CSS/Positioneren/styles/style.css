@@ -1,0 +1,16 @@
+article:nth-child(even) img {
+    float: right;
+}
+
+article {
+    border: 1px solid black;
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 10px;
+}
+
+
+article h2 , p, img {
+    margin: 10px;
+}
+
