@@ -17,10 +17,10 @@ const update =() => {
 
     for (let i = 0; i < txtSubtotaal.length; i++) {
 
-        let aantal = parseFloat(txtAantal[i].value);
 
-        let btw = parseFloat(txtBtw[i].innerHTML);
         let prijs = parseFloat(txtPrijs[i].innerHTML);
+        let aantal = parseFloat(txtAantal[i].value);
+        let btw = parseFloat(txtBtw[i].innerHTML);
         let subtotaal = aantal * prijs * (1 + (btw / 100));
         totaal = subtotaal + totaal;
 
