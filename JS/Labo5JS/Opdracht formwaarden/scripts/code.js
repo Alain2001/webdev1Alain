@@ -17,16 +17,14 @@ const show = () => {
     }
 
     for (let i = 0; i < moederTaal.length; i++) {
-        if (moederTaal[i].selected) {
+        if (moederTaal[i].checked) {
             console.log("moedertaal is:", moederTaal[i].value);
-            break
         }
     }
 
     for (let i = 0; i < buurland.length; i++) {
         if (buurland[i].selected) {
             console.log("favoriete buurland is:", buurland[i].value);
-            break
         }
     }
 
