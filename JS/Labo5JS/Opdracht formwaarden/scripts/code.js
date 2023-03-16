@@ -17,7 +17,7 @@ const show = () => {
     }
 
     for (let i = 0; i < moederTaal.length; i++) {
-        if (moederTaal[i].checked) {
+        if (moederTaal[i].selected) {
             console.log("moedertaal is:", moederTaal[i].value);
             break
         }
