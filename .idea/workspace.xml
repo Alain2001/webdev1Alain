@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f73f2216-3dd2-425c-b1a0-df4ccbda8563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht Man van An/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht Man van An/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht invulformulier/formulierElementen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht spaties console/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht spaties console/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht spaties met functie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo4JS/Opdracht spaties met functie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Demo/images/Vives.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Demo/images/kat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Demo/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht de en het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht de en het/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht formvalidatie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht formvalidatie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht formvalidatie/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht formwaarden/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht formwaarden/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht gemeenten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht trigrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo5JS/Opdracht trigrams/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Labo3JS/Opdracht Producten/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3JS/Opdracht Producten/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Labo3JS/Opdracht Producten/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3JS/Opdracht Producten/scripts/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +90,7 @@
       <workItem from="1678438517220" duration="10287000" />
       <workItem from="1678629666598" duration="11484000" />
       <workItem from="1678974921802" duration="11170000" />
-      <workItem from="1678996188179" duration="3694000" />
+      <workItem from="1678996188179" duration="4016000" />
     </task>
     <servers />
   </component>
