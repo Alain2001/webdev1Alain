@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f73f2216-3dd2-425c-b1a0-df4ccbda8563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/DemoStorageJson/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/DemoStorageJson/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/Start_Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/Start_Colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/Start_Colorpicker/scripts/storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/Start_Colorpicker/scripts/swatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/Start_Colorpicker/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/demo storage/demo 1 globale variabelen/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/demo storage/demo 1 globale variabelen/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/demo storage/demo 2 session storage/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/demo storage/demo 2 session storage/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/demo storage/demo 3 local storage/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo 9JS/demo storage/demo 3 local storage/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo10JS/My Internet Start Page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo10JS/My Internet Start Page/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo10JS/My Internet Start Page/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 2/images/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 3/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Extra oefeningen Nodes/Opdracht 3/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Nodes/Demo1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Nodes/Demo1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Nodes/Demo1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Nodes/Demo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Nodes/Demo2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Uitbreiding Colorpicker/Uitbreiding Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Uitbreiding Colorpicker/Uitbreiding Colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/Uitbreiding Colorpicker/Uitbreiding Colorpicker/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/demo event bubbling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/demo event bubbling/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/demo event bubbling/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/demo events/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6JS/demo events/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/scripts/code.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/scripts/code/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/BeginSituatie_HitAnObject/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/kaart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/kaart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/kaart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/kaart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/kaart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/images/kaart6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/script/memory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7JS/MatchingGame/style/memory.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Web 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Web 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Labo3JS/Opdracht Colorpicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3JS/Opdracht Colorpicker/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f73f2216-3dd2-425c-b1a0-df4ccbda8563" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +111,7 @@
       <workItem from="1683274611170" duration="9126000" />
       <workItem from="1684769775272" duration="1658000" />
       <workItem from="1686661057644" duration="1609000" />
-      <workItem from="1686662702988" duration="254000" />
+      <workItem from="1686662702988" duration="568000" />
     </task>
     <servers />
   </component>
